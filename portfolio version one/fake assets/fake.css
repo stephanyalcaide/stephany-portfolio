@@ -1,0 +1,17 @@
+
+h1{
+    text-align: center;
+}
+body {
+    background-color: cornflowerblue;
+}
+img{
+    border-radius: 8px;
+    width: 300px;
+    padding-top: 100px;
+    padding-left: 50px;
+}
+p {
+    font-size: 30px;
+    padding-left: 30px;
+}
